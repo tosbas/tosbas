@@ -1,16 +1,14 @@
-### Hi there 👋
+# Salut à tous ! 👋
 
-<!--
-**tosbas/tosbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon profil GitHub ! Je suis passionné par le développement et j'adore partager des projets sympas avec la communauté. 
 
-Here are some ideas to get you started:
+## À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Je suis un développeur PHP/MySQL avec une passion particulière pour JavaScript.
+- 💻 J'ai de l'expérience avec Node.js, React.js/React Native et bien d'autres technologies.
+- 🔍 Explorez mes dépôts pour découvrir mes projets et contributions.
+
+## Comment me contacter
+
+- 📫 Vous pouvez me joindre par e-mail à [rootadm01@gmail.com](mailto:rootadm01@gmail.com).
+- 💬 N'hésitez pas à ouvrir une issue sur l'un de mes dépôts si vous avez des questions ou des suggestions.
