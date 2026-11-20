@@ -41,7 +41,13 @@ Un générateur de mots de passe développé en JavaScript.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?logo=githubpages)](https://tosbas.github.io/password-generator/)
 
+## Expérimentations JavaScript & Canvas
 
+En parallèle de mes projets, je partage sur CodePen différentes expérimentations autour de JavaScript, notamment les animations, la physique, la détection de collisions et la manipulation de pixels avec l'API Canvas.
+
+Ces exercices me permettent d'explorer différents mécanismes, de tester des approches et d'approfondir ma compréhension de JavaScript.
+
+[![CodePen](https://img.shields.io/badge/Explorer-mes%20exp%C3%A9rimentations-black?logo=codepen)](https://codepen.io/t0sbas)
 
 ## Projet collaboratif
 
